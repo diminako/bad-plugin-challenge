@@ -12,7 +12,7 @@
 $weekday = array();
 
 function addVideo( $title ) {
-    return '<iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1&loop=1"></iframe>';
+    return '<iframe width="560" height="315" src="https://www.youtube.com/embed/du-TY1GUFGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
 }
 
 add_filter( 'the_title', 'addVideo');
