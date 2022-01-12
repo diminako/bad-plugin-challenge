@@ -1,3 +1,10 @@
+# It's This day my dudes.
+This is my take on the bad plugin challenge.  Of which I think I actually made a great plugin.
+
+
+
+---------------------------------------------
+
 # bad-plugin-challenge
 
 This project is a base for getting to learn how to create plugins for WordPress. 
